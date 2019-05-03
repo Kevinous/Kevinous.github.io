@@ -1,7 +1,7 @@
 # Site settings
 title: ZhouYuxuan's Blog
 SEOTitle: 周宇轩的博客 | ZhouYuxuan's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/github_img.png
 email: 532966042@qq.com
 description: "Keep working, keep studying."
 keyword: "ZYX, ZYX's Blog, 周宇轩的博客, zhouyuxuan, 周宇轩, note"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Kevinous/Kevinous.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Be happy."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avater-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
