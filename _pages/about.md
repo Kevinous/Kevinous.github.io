@@ -17,9 +17,18 @@ Research Interest
 * Reconfigurable Intelligent Surface (RIS) aided Sensing
 * IoT
 
-**Research Interest
+Selected Reasearch Projects
 =====
+**RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface** (Feb. 2022 - Dec. 2022)
+* Design a two-phase attack strategy against the practical WiFi-based intrusion detection system by analysing the robustness improvement modules.
+* Design a RIS-aided beamforming method to deflect the reflection energy away from the victim receiver to keep the intruder invisible to the system.
+* Design a beamforming-based method to damage the victim system's detection capability.
+* Conduct extensive experiment to validate the attacks.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**WiAdv: Practical and Robust Adversarial Attack against WiFi-based Gesture Recognition System** (Nov. 2020 - Oct. 2021)
+* Design a signal synthesis scheme to craft adversarial WiFi signals with desired motion features.
+* Design two black-box attacks to handle the difficulties caused by non-differentiable processing modules in the sensing pipeline.
+* Take the ambient interference signals and processing jitters into consideration to improve the practicality and robustness of the attack.
+* Conduct extensive experiment to validate the attacks.
 
 
