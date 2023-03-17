@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 - Postgraduate Studentships, HKUST, *2020-present*
+- HKUST Research Travel Grant, 2022
 - HNA Scholarship, HUST, *2018*
 - Scholarship for Scientific and Technological Innovation, HUST, *2018*
 - National Scholarship, HUST, *2017*
