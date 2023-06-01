@@ -19,11 +19,11 @@ Research Interest
 
 Selected Reasearch Projects
 =====
-#**RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface** (Feb. 2022 - Dec. 2022)
-#* Design a two-phase attack strategy against the practical WiFi-based intrusion detection system by analysing the robustness improvement modules.
-#* Design a RIS-aided beamforming method to deflect the reflection energy away from the victim receiver to keep the intruder invisible to the system.
-#* Design a beamforming-based method to damage the victim system's detection capability.
-#* Conduct extensive experiment to validate the attacks.
+<!--**RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface** (Feb. 2022 - Dec. 2022)
+* Design a two-phase attack strategy against the practical WiFi-based intrusion detection system by analysing the robustness improvement modules.
+* Design a RIS-aided beamforming method to deflect the reflection energy away from the victim receiver to keep the intruder invisible to the system.
+* Design a beamforming-based method to damage the victim system's detection capability.
+* Conduct extensive experiment to validate the attacks.-->
 
 **WiAdv: Practical and Robust Adversarial Attack against WiFi-based Gesture Recognition System** (Nov. 2020 - Oct. 2021)
 * Design a signal synthesis scheme to craft adversarial WiFi signals with desired motion features.
