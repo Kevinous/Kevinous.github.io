@@ -32,9 +32,9 @@ To support this, all changes to the underlying code appear as a closed issue wit
 
 # Entry for my homepage
 
-Information on the sidebar and some basic information: _config.yml
-Navigation and authors information: _data/authors.yml, _data/navigation.yml
-The main page: _pages/about.md
-Publications page: _pages/publications.md
-Honor page: _pages/honor.md
-Academic Service: _pages/teaching.md
+1. Information on the sidebar and some basic information: _config.yml
+1. Navigation and authors information: _data/authors.yml, _data/navigation.yml
+1. The main page: _pages/about.md
+1. Publications page: _pages/publications.md
+1. Honor page: _pages/honor.md
+1. Academic Service: _pages/teaching.md
