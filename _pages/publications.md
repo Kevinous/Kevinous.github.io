@@ -22,4 +22,5 @@ author_profile: true
 
 **Conference**
 - **Zhou Y**, Li C, Chen H, et al. [RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface](https://doi.org/10.1145/3625687.3625790). In The 21st ACM Conference on Embedded Networked Sensor Systems (SenSys ’23), November 12–17, 2023, Istanbul, Turkiye. ACM, New York, NY, USA, 14 pages.
+- Li C, Huang Q, **Zhou Y**, et al. 2023. RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi. In The 21st ACM Conference on Embedded Networked Sensor Systems (SenSys ’23), November 12–17, 2023, Istanbul, Turkiye. ACM, New York, NY, USA, 14 pages.
 
