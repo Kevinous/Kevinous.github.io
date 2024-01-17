@@ -25,6 +25,12 @@ Selected Research Projects
 * Design a beamforming-based method to damage the victim system's detection capability.
 * Conduct extensive experiments to validate the attacks.
 
+**RISCan: RIS-aided Multi-user Indoor Localization Using COTS WiFi** (Mar. 2022 - Nov. 2022)
+* Design a novel algorithm to extract the RIS component from the superimposed channel and design mechanisms to suppress environmental disturbance.
+* Prototype RIScan with COTS Wi-Fi devices and customized RIS hardware.
+* Conduct extensive experiments to demonstrate excellent performance in multi-user scenarios.
+
+
 **WiAdv: Practical and Robust Adversarial Attack against WiFi-based Gesture Recognition System** (Nov. 2020 - Oct. 2021)
 * Design a signal synthesis scheme to craft adversarial WiFi signals with desired motion features.
 * Design two black-box attacks to handle the difficulties caused by non-differentiable processing modules in the sensing pipeline.
