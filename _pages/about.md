@@ -22,7 +22,7 @@ Selected Research Projects
 
 **RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface** (Feb. 2022 - Dec. 2022)
 
-<img src=https://kevinous.github.io/images/RIStealth_Sensys.png width=70% />
+![RIStealth](/images/RIStealth_Sensys.png)
 
 * Design a two-phase attack strategy against the practical WiFi-based intrusion detection system by analyzing the robustness improvement modules.
 * Design a RIS-aided beamforming method to deflect the reflection energy away from the victim receiver to keep the intruder invisible to the system.
@@ -31,7 +31,7 @@ Selected Research Projects
 
 **RISCan: RIS-aided Multi-user Indoor Localization Using COTS WiFi** (Mar. 2022 - Nov. 2022)
 
-<img src=https://kevinous.github.io/images/RIScan_Sensys.png width=50% />
+![RIScan](/images/RIScan_Sensys.png)
 
 * Design a novel algorithm to extract the RIS component from the superimposed channel and design mechanisms to suppress environmental disturbance.
 * Prototype RIScan with COTS Wi-Fi devices and customized RIS hardware.
@@ -40,7 +40,7 @@ Selected Research Projects
 
 **WiAdv: Practical and Robust Adversarial Attack against WiFi-based Gesture Recognition System** (Nov. 2020 - Oct. 2021)
 
-<img src=https://kevinous.github.io/images/WiAdv_Ubicomp.png width=80% />
+![WiAdv](/images/WiAdv_Ubicomp.png)
 
 * Design a signal synthesis scheme to craft adversarial WiFi signals with desired motion features.
 * Design two black-box attacks to handle the difficulties caused by non-differentiable processing modules in the sensing pipeline.
