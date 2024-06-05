@@ -22,4 +22,4 @@ author_profile: true
 
 **Conference**
 - \[ACM SenSys'23\] **Yuxuan Zhou**, Chenggao Li, Huangxun Chen, and Qian Zhang. [RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface.](https://dl.acm.org/doi/abs/10.1145/3625687.3625790) [[paper]](https://kevinous.github.io/files/RIStealth_Sensys23.pdf)
-- \[ACM SenSys'23\] Chenggao Li, Qianyi Huang, **Yuxuan Zhou**, Yandao Huang, Qingyong Hu, Huangxun Chen, and Qian Zhang. [RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi.](https://sensys.acm.org/2023/program/) [[paper]](https://kevinous.github.io/files/RIScan_Sensys23.pdf)
+- \[ACM SenSys'23\] Chenggao Li, Qianyi Huang, **Yuxuan Zhou**, Yandao Huang, Qingyong Hu, Huangxun Chen, and Qian Zhang. [RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi.](https://dl.acm.org/doi/abs/10.1145/3625687.3625806) [[paper]](https://kevinous.github.io/files/RIScan_Sensys23.pdf)
