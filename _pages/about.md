@@ -19,6 +19,24 @@ Research Interest
 
 Selected Research Projects
 =====
+**mmTremor: Practical Tremor Monitoring for Parkinson’s Disease and Essential Tremor in Daily Life** (Oct. 2023 - Sep. 2024)
+
+![mmTremor](/images/mmTremor.png)
+
+* Integrate the depth camera with the mmWave radar to enable thorough tremor movement detection at both micro and macro levels.
+* Propose a joint tremor source separation scheme and a multimodal model architecture.
+* Design an unsupervised contrastive adaptation for robust tremor detection.
+* Collected a dataset of 28 patients and 9 healthy subjects in over 20 diverse environments.
+
+**High-resolution mmWave Imaging using Metasurface and Diffusion** (May. 2024 - Aug. 2024)
+
+![MIMSID](/images/MIMSID.png)
+
+* Propose a passive metasurface for fine-resolution imaging and in 77-81 GHz.
+* Design the diffusion model to replace traditional compressive sensing solvers under means squared error.
+* Design an end-to-end optimization to jointly optimize the metasurface patterns, transmitter codewords, and the diffusion model.
+* An efficient channel estimation method is proposed to reduce the burden of domain adaptation.
+
 
 **RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface** (Feb. 2022 - Dec. 2022)
 
