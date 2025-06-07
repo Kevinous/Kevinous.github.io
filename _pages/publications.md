@@ -27,7 +27,7 @@ author_profile: true
 - \[ACM SenSys'23\] **Yuxuan Zhou**, Chenggao Li, Huangxun Chen, and Qian Zhang. [RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface.](https://dl.acm.org/doi/abs/10.1145/3625687.3625790) [[paper]](https://kevinous.github.io/files/RIStealth_Sensys23.pdf)
 - \[ACM SenSys'23\] Chenggao Li, Qianyi Huang, **Yuxuan Zhou**, Yandao Huang, Qingyong Hu, Huangxun Chen, and Qian Zhang. [RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi.](https://dl.acm.org/doi/abs/10.1145/3625687.3625806) [[paper]](https://kevinous.github.io/files/RIScan_Sensys23.pdf)
 
-  **Patent**
-  - _**Yuxuan Zhou**_, Qingyong HU, Qian ZHANG. 2025. Contactless Arterial Blood Pressure Waveform Monitoring with mmWave Radar. US Patent. IP.PA.12403.US.PRV. Filed.
-  - _**Yuxuan Zhou**_, Qingyong HU, Jinjian WANG, Qian ZHANG, Qianhui XU, Guihua LI. 2025. A Software System for Practical Tremor Monitoring for Parkinson's Disease and Essential Tremor in Daily Life. CN Patent. IP.PA.12428.CN. Approved for filing.
+**Patent**
+- **Yuxuan Zhou**, Qingyong HU, Qian ZHANG. 2025. Contactless Arterial Blood Pressure Waveform Monitoring with mmWave Radar. US Patent. IP.PA.12403.US.PRV. Filed.
+- **Yuxuan Zhou**, Qingyong HU, Jinjian WANG, Qian ZHANG, Qianhui XU, Guihua LI. 2025. A Software System for Practical Tremor Monitoring for Parkinson's Disease and Essential Tremor in Daily Life. CN Patent. IP.PA.12428.CN. Approved for filing.
 
