@@ -29,5 +29,5 @@ author_profile: true
 
   **Patent**
   - _**Yuxuan Zhou**_, Qingyong HU, Qian ZHANG. 2025. Contactless Arterial Blood Pressure Waveform Monitoring with mmWave Radar. US Patent. IP.PA.12403.US.PRV. Filed.
-  - _**Yuxuan Zhou**_, Qingyong HU, Jinjian WANG, Qian ZHANG, Qianhui XU, Guihua LI. 2024. A Software System for Practical Tremor Monitoring for Parkinson's Disease and Essential Tremor in Daily Life. CN Patent. IP.PA.12428.CN. Approved for filing.
+  - _**Yuxuan Zhou**_, Qingyong HU, Jinjian WANG, Qian ZHANG, Qianhui XU, Guihua LI. 2025. A Software System for Practical Tremor Monitoring for Parkinson's Disease and Essential Tremor in Daily Life. CN Patent. IP.PA.12428.CN. Approved for filing.
 
