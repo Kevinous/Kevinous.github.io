@@ -23,7 +23,7 @@ author_profile: true
 
 **Conference**
 - \[ACM MobiCom'25] **Yuxuan Zhou***, Qingyong Hu*,  Jinjian Wang, Zirui Huang, Guihua Li, Qianhui Xu, Qian Zhang, mmTremor: Practical Tremor Monitoring for Parkinson’s Disease and Essential Tremor in Daily Life.
-- \[ACM MobiSys'25] Yida Wang, Yu Lu, **Yuxuan Zhou**, Yifei Shen, Lili Qiu, Zeyuan Lai, Yi-Chao Chen, Hao Pan, Juntao Zhou, Dian Ding, Mei Wang, Guangtao Xue, Qian Zhang. High-resolution mmWave Imaging using Metasurface and Diffusion.
+- \[ACM MobiSys'25] Yida Wang, Yu Lu, **Yuxuan Zhou**, Yifei Shen, Lili Qiu, Zeyuan Lai, Yi-Chao Chen, Hao Pan, Juntao Zhou, Dian Ding, Mei Wang, Guangtao Xue, Qian Zhang. [High-resolution mmWave Imaging using Metasurface and Diffusion.](https://doi.org/10.1145/3711875.3729162) (Best Artifact Award-Runner Up) [[paper]](https://yichao0319.github.io/assets/publications/mobisys25_wang.pdf) [[Teaser]](https://youtu.be/h2T5c9jGvqI)
 - \[ACM SenSys'23\] **Yuxuan Zhou**, Chenggao Li, Huangxun Chen, and Qian Zhang. [RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface.](https://dl.acm.org/doi/abs/10.1145/3625687.3625790) [[paper]](https://kevinous.github.io/files/RIStealth_Sensys23.pdf)
 - \[ACM SenSys'23\] Chenggao Li, Qianyi Huang, **Yuxuan Zhou**, Yandao Huang, Qingyong Hu, Huangxun Chen, and Qian Zhang. [RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi.](https://dl.acm.org/doi/abs/10.1145/3625687.3625806) [[paper]](https://kevinous.github.io/files/RIScan_Sensys23.pdf)
 
