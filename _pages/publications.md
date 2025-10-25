@@ -16,7 +16,7 @@ author_profile: true
 
 
 **Journal**
-- \[ACM IMWUT/Ubicomp'24\] Qingyong Hu, Qian Zhang, Hao Lu, Shun Wu, **Yuxuan Zhou**, Qianyi Huang, Huangxun Chen, Yingcong Chen, Ni Zhao. [Contactless Arterial Blood Pressure Waveform Monitoring with mmWave Radar.](https://dl.acm.org/doi/10.1145/3699781)
+- \[ACM IMWUT/Ubicomp'24\] Qingyong Hu, Qian Zhang, Hao Lu, Shun Wu, **Yuxuan Zhou**, Qianyi Huang, Huangxun Chen, Yingcong Chen, Ni Zhao. [Contactless Arterial Blood Pressure Waveform Monitoring with mmWave Radar.](https://dl.acm.org/doi/10.1145/3699781) (Distinguished Paper Awards (DPAs), 3-4%)
 - \[ACM IMWUT/Ubicomp'22\] **Yuxuan Zhou**, Huangxun Chen, Chenyu Huang, and Qian Zhang. [WiAdv: Practical and Robust Adversarial Attack against WiFi-based Gesture Recognition System.](https://dl.acm.org/doi/abs/10.1145/3534618) [[paper]](https://kevinous.github.io/files/WiAdv_IMWUT22.pdf)
 - \[中国计算机学会通讯'23\] 张黔, 薛梦, 谢文涛, 胡海燕, **周宇轩**, 黄彦道. [探索移动感知的价值：从可穿戴到非接触感知](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=6387404926961664)
 
