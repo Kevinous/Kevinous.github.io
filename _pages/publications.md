@@ -29,6 +29,6 @@ author_profile: true
 - \[ACM SenSys'23\] Chenggao Li, Qianyi Huang, **Yuxuan Zhou**, Yandao Huang, Qingyong Hu, Huangxun Chen, and Qian Zhang. [RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi.](https://dl.acm.org/doi/abs/10.1145/3625687.3625806) [[paper]](https://kevinous.github.io/files/RIScan_Sensys23.pdf)
 
 **Patent**
-- **Yuxuan Zhou**, Qingyong HU, Qian ZHANG. 2025. Contactless Arterial Blood Pressure Waveform Monitoring with mmWave Radar. US Patent. IP.PA.12403.US.PRV. Filed.
-- **Yuxuan Zhou**, Qingyong HU, Jinjian WANG, Qian ZHANG, Qianhui XU, Guihua LI. 2025. A Software System for Practical Tremor Monitoring for Parkinson's Disease and Essential Tremor in Daily Life. CN Patent. IP.PA.12428.CN. Approved for filing.
+- **Yuxuan Zhou**, Qingyong HU, Qian ZHANG. 2025. Contactless Arterial Blood Pressure Waveform Monitoring with mmWave Radar. 基于机器学习的用于非接触式动脉血压波形监测的系统和方法。 IP.PA.12403.US/HK/CN Filed.
+- **Yuxuan Zhou**, Qingyong HU, Jinjian WANG, Qian ZHANG, Qianhui XU, Guihua LI. 2025. A Software System for Practical Tremor Monitoring for Parkinson's Disease and Essential Tremor in Daily Life. CN Patent. IP.PA.12428.CN. Filed.
 
