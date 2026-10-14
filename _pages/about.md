@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, supervised by Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). My research interests include privacy and security in wireless sensing and Reconfigurable Intelligent Surface aided wireless sensing. I received my B.S. degree in Electronic and Information Engineering from Huazhong University of Science and Technology in 2020.
+I currently work as a researcher at Huawei, focusing on AIoT-related areas. My research is applied in multiple kinds of products, including mobile phones (e.g., Mate series), watches, and vehicles.
+
+I obtained my Ph.D. degree in the Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, supervised by Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). My research interests include privacy and security in wireless sensing and Reconfigurable Intelligent Surface aided wireless sensing. I received my B.S. degree in Electronic and Information Engineering from Huazhong University of Science and Technology in 2020.
 
 Research Interest
 ======
